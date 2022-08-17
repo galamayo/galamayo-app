@@ -65,7 +65,7 @@ import emailjs from "emailjs-com";
             <input  type="text" placeholder="Email" name="user_email" />
             <textarea rows="5" placeholder="Message" name="message" />
             <button>Submit</button>
-            {done && "Merci..."}
+            {done && "Merci...pour tout"}
           </form>
         </div>
       </div>
